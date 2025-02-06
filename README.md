@@ -1,6 +1,22 @@
 # Authentication Warrior
 
 Authentication is the process of verifying the identity of a user, system. It's like checking an ID to make sure someone is who they say they are.
+## Authentication-Output
+- **Output1:**
+
+<img src="https://raw.githubusercontent.com/harish5108/auth-app-Warkeeper/refs/heads/main/SharedScreenshotAuthO2.jpg" alt="Output1" width="100%" height="100%">
+
+- **Output2:**
+
+<img src="https://raw.githubusercontent.com/harish5108/auth-app-Warkeeper/refs/heads/main/ScreenshotAuthO3.jpg" alt="Output2" width="100%" height="100%">
+
+- **Output3:**
+
+<img src="https://raw.githubusercontent.com/harish5108/auth-app-Warkeeper/refs/heads/main/ScreenshotAuthO4.jpg" alt="Output3" width="100%" height="100%">
+
+- **Output4:**
+
+<img src="https://raw.githubusercontent.com/harish5108/auth-app-Warkeeper/refs/heads/main/ScreenshotAuthO5.jpg" alt="Output4" width="100%" height="100%">
 
 ## 1. Overview of the System
 
